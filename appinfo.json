@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "taturou@gmail.com",
+    "longName": "SAMPLE_ACCEL_2",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "SAMPLE_ACCEL_2",
+    "uuid": "15ca2a81-bbff-49dd-b107-e338d38091b2",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
